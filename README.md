@@ -1,6 +1,1 @@
-Loan Approval Prediction
-Objective:Loan approval prediction is to instantly identify high-risk loans and reduce overall default exposure and Market Risk Scores in making a review decision based on the level of collateral risk associated with a loan. 
-Technologies:  Python, Numpy, Pandas, matplotlib, One HotEncoding, Random forest, SVM, Decision Tree, Naïve Bayes
-
-
-
+[ML1.docx](https://github.com/VinodaAnil/Credit-card-data-analysis-/files/9011682/ML1.docx)
